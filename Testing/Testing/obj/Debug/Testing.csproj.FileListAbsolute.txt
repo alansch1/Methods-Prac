@@ -1,0 +1,6 @@
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\Testing\Testing\bin\Debug\Testing.exe.config
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\Testing\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\Testing\Testing\bin\Debug\Testing.exe
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\Testing\Testing\bin\Debug\Testing.pdb
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\Testing\Testing\obj\Debug\Testing.exe
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\Testing\Testing\obj\Debug\Testing.pdb
