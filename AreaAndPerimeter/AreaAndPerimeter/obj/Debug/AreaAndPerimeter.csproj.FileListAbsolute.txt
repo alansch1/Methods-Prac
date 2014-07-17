@@ -1,0 +1,9 @@
+C:\Users\6103412306\Dropbox\Visual Studio\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe.config
+C:\Users\6103412306\Dropbox\Visual Studio\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe
+C:\Users\6103412306\Dropbox\Visual Studio\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.pdb
+C:\Users\6103412306\Dropbox\Visual Studio\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csprojResolveAssemblyReference.cache
+C:\Users\6103412306\Dropbox\Visual Studio\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.Properties.Resources.resources
+C:\Users\6103412306\Dropbox\Visual Studio\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.GenerateResource.Cache
+C:\Users\6103412306\Dropbox\Visual Studio\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.exe
+C:\Users\6103412306\Dropbox\Visual Studio\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.pdb
+C:\Users\6103412306\Dropbox\Visual Studio\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.frmAreaPerimeter.resources

@@ -1,0 +1,9 @@
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojResolveAssemblyReference.cache
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.Cache
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb

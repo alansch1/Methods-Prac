@@ -1,0 +1,6 @@
+C:\Users\6103412306\Dropbox\Visual Studio\practice\practice\bin\Debug\practice.exe.config
+C:\Users\6103412306\Dropbox\Visual Studio\practice\practice\obj\Debug\practice.csprojResolveAssemblyReference.cache
+C:\Users\6103412306\Dropbox\Visual Studio\practice\practice\bin\Debug\practice.exe
+C:\Users\6103412306\Dropbox\Visual Studio\practice\practice\bin\Debug\practice.pdb
+C:\Users\6103412306\Dropbox\Visual Studio\practice\practice\obj\Debug\practice.exe
+C:\Users\6103412306\Dropbox\Visual Studio\practice\practice\obj\Debug\practice.pdb

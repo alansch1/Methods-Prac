@@ -1,0 +1,9 @@
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojResolveAssemblyReference.cache
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+\\NEWSERVER\DipofSoftware\Dropboxes\Schiffler\Semester 2\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
